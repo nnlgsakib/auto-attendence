@@ -1,0 +1,3 @@
+name: sakib
+roll: 1
+image_path: img/sakib.png
